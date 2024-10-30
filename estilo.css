@@ -61,6 +61,20 @@ header {
     height: 200px;
 }
 
+.titulo-menu {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #ffffff;
+    margin: 15px auto;
+    height: 30px;
+    background-color: #333;
+    color: #fff;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
 .menu {
     display: flex;
     flex-direction: column;
@@ -105,7 +119,7 @@ header {
     width: 100px;
     margin: 15px auto;
     border-radius: 8px;
-    font-size: 1rem;
+    font-size: 1.3rem;
     display: flex;
     align-items: center;
     justify-content: center;
